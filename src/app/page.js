@@ -144,7 +144,7 @@ export default function Home() {
           fontSize:"3vw"
         }}>
 
-          <p>Christine</p>         
+          <p>Christine•</p>         
           <Box padding={"1%"} w={"75%"}><hr style={{
               display: "block",
               height: "3px",
@@ -163,7 +163,7 @@ export default function Home() {
         </Center>
         <Box wid style={{ color : "black"}} paddingLeft={"5%"} paddingTop={"15%"} className={TNRfont.className} fontSize={"2.5vw"}>
                     Wandering gastronaut on a quest of unpretentious<br/>
-                    food, hidden gems and exquisite staycation
+                    food, hidden gems and exquisite staycation ❈
         </Box>
         <Image src={IMG1} alt = "img1" style={{
             marginLeft: width * 0.1,
