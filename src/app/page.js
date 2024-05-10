@@ -89,7 +89,7 @@ export default function Home() {
           fontSize: 24
         }}>
           <Center width={"95%"} flex={true}>
-          <p>Christine </p>
+          <p>Christine•  </p>
           <Box padding={"1%"} w={"75%"}><hr style={{
               display: "block",
               height: "3px",
@@ -118,7 +118,7 @@ export default function Home() {
         <Box style={{ color : "black"}} paddingLeft={"5%"} paddingTop={"2%"} className={TNRfont.className} fontSize={"1.5vw"}>
 
           Wandering gastronaut on a quest of unpretentious<br/>
-          food, hidden gems and exquisite staycation
+          food, hidden gems and exquisite staycation ❈
         </Box>
         </>
 
